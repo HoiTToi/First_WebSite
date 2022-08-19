@@ -37,13 +37,13 @@
     color: white;
     font-size: 20px;
     padding: 6px 13px;
-    transition: 500ms;
+    transition: 10ms;
 }
 
 .navbar ul li a.active,
 .navbar ul li a:hover{
     background: red;
-    transition: 1ms;
+    transition: 10ms;
     border-radius: 2px;
     color: black;
 }
